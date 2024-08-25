@@ -2,7 +2,6 @@ package com.kairos.cultivation;
 
 import java.util.Map;
 import java.util.Set;
-import java.util.UUID;
 
 public class CultivationData {
     private MajorRealm majorRealm;

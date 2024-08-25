@@ -1,6 +1,5 @@
 package com.kairos.cultivation;
 
-import com.kairos.Main;
 import com.kairos.cultivation.realms.QiGathering;
 import net.minestom.server.entity.Player;
 
