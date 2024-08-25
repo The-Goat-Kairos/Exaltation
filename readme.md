@@ -1,4 +1,6 @@
-okay so magic cultivation wooo okay uhm
-yes
+### Cultivation System:
 
-
+#### Requirements:
+- Qi
+- Qi Max
+- 
