@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.kairos'
+group = 'com.github.the-goat-kairos'
 version = '1.0-SNAPSHOT'
 
 repositories {
@@ -12,6 +12,8 @@ repositories {
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'net.minestom:minestom-snapshots:a521c4e7cd'
+    implementation "com.github.TogAr2:MinestomPvP:9972e58b9c"
 }
 
 test {
